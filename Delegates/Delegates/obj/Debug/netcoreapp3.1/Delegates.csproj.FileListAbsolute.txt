@@ -1,0 +1,11 @@
+C:\Users\Joo\source\repos\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\Joo\source\repos\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\Joo\source\repos\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\Joo\source\repos\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\Joo\source\repos\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\Joo\source\repos\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\Joo\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Users\Joo\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\Joo\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\Joo\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\Joo\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
