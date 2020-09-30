@@ -1,0 +1,5 @@
+F:\#GitRepos\projects\WebApplicationProject\WebApplicationProjectData\bin\Debug\netcoreapp3.1\WebApplicationProjectData.deps.json
+F:\#GitRepos\projects\WebApplicationProject\WebApplicationProjectData\bin\Debug\netcoreapp3.1\WebApplicationProjectData.dll
+F:\#GitRepos\projects\WebApplicationProject\WebApplicationProjectData\obj\Debug\netcoreapp3.1\WebApplicationProjectData.csprojAssemblyReference.cache
+F:\#GitRepos\projects\WebApplicationProject\WebApplicationProjectData\obj\Debug\netcoreapp3.1\WebApplicationProjectData.AssemblyInfoInputs.cache
+F:\#GitRepos\projects\WebApplicationProject\WebApplicationProjectData\obj\Debug\netcoreapp3.1\WebApplicationProjectData.AssemblyInfo.cs
