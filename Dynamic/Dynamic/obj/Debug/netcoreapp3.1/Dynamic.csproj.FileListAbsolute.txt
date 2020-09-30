@@ -1,0 +1,11 @@
+F:\#GitRepos\projects\Dynamic\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.exe
+F:\#GitRepos\projects\Dynamic\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.deps.json
+F:\#GitRepos\projects\Dynamic\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.runtimeconfig.json
+F:\#GitRepos\projects\Dynamic\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.runtimeconfig.dev.json
+F:\#GitRepos\projects\Dynamic\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.dll
+F:\#GitRepos\projects\Dynamic\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.pdb
+F:\#GitRepos\projects\Dynamic\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.csprojAssemblyReference.cache
+F:\#GitRepos\projects\Dynamic\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.AssemblyInfoInputs.cache
+F:\#GitRepos\projects\Dynamic\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.AssemblyInfo.cs
+F:\#GitRepos\projects\Dynamic\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.dll
+F:\#GitRepos\projects\Dynamic\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.pdb
