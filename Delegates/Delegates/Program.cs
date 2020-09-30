@@ -7,7 +7,7 @@ namespace Delegates
         //Is an object that know how to call a method or a group of methods
         //A reference to a function
 
-        //Use delegates to create applications that are extensible and flexible, often used in frmaeworks
+        //Use delegates to create applications that are extensible and flexible, often used in frameworks
 
         //What the client would do without delegates
         static void ClientnoDelegate()
