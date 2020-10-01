@@ -9,3 +9,14 @@ C:\Users\Joo\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.
 C:\Users\Joo\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
 C:\Users\Joo\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
 C:\Users\Joo\source\repos\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+F:\#GitRepos\projects\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+F:\#GitRepos\projects\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+F:\#GitRepos\projects\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+F:\#GitRepos\projects\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+F:\#GitRepos\projects\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+F:\#GitRepos\projects\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+F:\#GitRepos\projects\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+F:\#GitRepos\projects\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+F:\#GitRepos\projects\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+F:\#GitRepos\projects\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+F:\#GitRepos\projects\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb

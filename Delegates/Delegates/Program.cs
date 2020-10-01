@@ -14,7 +14,7 @@ namespace Delegates
         {
             ImageProcessor imageProcessor = new ImageProcessor();
 
-            imageProcessor.ApplyFiltersWithoutDelegate("C:\\img.jpg");
+            imageProcessor.ApplyFiltersWithoutDelegate(@"C:\img.jpg");
         }
 
         static void ClientWithDelegate()
@@ -25,12 +25,13 @@ namespace Delegates
             ImageProcessor.ImageFilterHandler filterHandler = imageFilters.ApplyBrightnessFilter;
 
             //To add another filter
+            //Those methods must have the same return type as well as the same parameters
             filterHandler += imageFilters.ApplyContrastFilter;
 
             //Add created filter
             filterHandler += ApplyRedEyeFilter;
 
-            imageProcessor.ApplyFiltersWithDelegate("C:\\img.jpg", filterHandler);
+            imageProcessor.ApplyFiltersWithDelegate(@"C:\img.jpg", filterHandler);
         }
 
         //To create a filter that doesn't exist in the framework:
@@ -43,6 +44,8 @@ namespace Delegates
         {
             //ClientnoDelegate();
             ClientWithDelegate();
+
+            Console.ReadLine();
         }
     }
 }
