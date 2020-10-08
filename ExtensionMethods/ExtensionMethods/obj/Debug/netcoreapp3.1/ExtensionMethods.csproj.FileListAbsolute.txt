@@ -1,0 +1,11 @@
+F:\#GitRepos\projects\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+F:\#GitRepos\projects\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+F:\#GitRepos\projects\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+F:\#GitRepos\projects\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+F:\#GitRepos\projects\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+F:\#GitRepos\projects\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+F:\#GitRepos\projects\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csprojAssemblyReference.cache
+F:\#GitRepos\projects\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+F:\#GitRepos\projects\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+F:\#GitRepos\projects\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+F:\#GitRepos\projects\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
